@@ -11,6 +11,11 @@ vox activate env
 pip install -r requirements.txt
 ```
 
+* exit virtualenv
+```
+vox deactivate
+```
+
 # Backlog
 * [ ] Django Models
 	* [x] add django as a dependency
